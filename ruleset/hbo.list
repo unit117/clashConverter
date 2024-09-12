@@ -1,0 +1,19 @@
+#hbo
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-KEYWORD,hbomax
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN,hboasia1-i.akamaihd.net
+DOMAIN,hboasia2-i.akamaihd.net
+DOMAIN,hboasia3-i.akamaihd.net
+DOMAIN,hboasia4-i.akamaihd.net
+DOMAIN,hboasia5-i.akamaihd.net
+DOMAIN,wmff.warnermediacdn.com,📺 HBO
+DOMAIN-SUFFIX,cinemax.com,📺 HBO
+DOMAIN-SUFFIX,discomax.com,📺 HBO
+DOMAIN-SUFFIX,h264.io,📺 HBO
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net,📺 HBO
+DOMAIN-SUFFIX,maxgo.com,📺 HBO
+PROCESS-NAME,com.hbo.hbonow,📺 HBO
