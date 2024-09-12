@@ -34,7 +34,3 @@ DOMAIN,itvpnpmobile-a.akamaihd.net
 # Channel 4
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
-
-# Instagram
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagram.com
