@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app
+DOMAIN,ab.chatgpt.com
+DOMAIN,ios.chat.openai.com
