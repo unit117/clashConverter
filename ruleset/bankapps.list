@@ -4,10 +4,15 @@ DOMAIN-SUFFIX,bankofamerica.com
 DOMAIN-SUFFIX,bofa.com
 
 DOMAIN-SUFFIX,discover.com
+DOMAIN-SUFFIX,discover.tt.omtrdc.net
+DOMAIN-SUFFIX,discoverbank.com
+DOMAIN-SUFFIX,discovercard.com
+
 
 DOMAIN-KEYWORD,americanexpress
 DOMAIN-SUFFIX,americanexpress.com
 DOMAIN-SUFFIX,amex.com
+DOMAIN-SUFFIX,icm.aexp-static.com
 
 DOMAIN-KEYWORD,chase
 DOMAIN-SUFFIX,chase.com
