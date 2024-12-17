@@ -116,6 +116,3 @@ USER-AGENT,Disney*
 USER-AGENT,Disney+*
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN-SUFFIX,cdn.registerdisney.go.com
-
-DOMAIN-KEYWORD,hulu
-DOMAIN-SUFFIX,vod-hulu-akc-na.media.dssott.com
