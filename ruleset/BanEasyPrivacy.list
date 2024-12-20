@@ -5,6 +5,9 @@
 # 数量：38999条
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,shifen.com
+DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com:443
+
 DOMAIN-SUFFIX,0.myikas.com
 DOMAIN-SUFFIX,0.net.easyjet.com
 DOMAIN-SUFFIX,00px.net
