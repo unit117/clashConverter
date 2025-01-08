@@ -34,3 +34,7 @@ DOMAIN,itvpnpmobile-a.akamaihd.net
 # Channel 4
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
+
+
+DOMAIN-SUFFIX,rocketaccount.com
+DOMAIN-SUFFIX,rocketmoney.com
