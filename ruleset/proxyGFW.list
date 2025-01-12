@@ -54,7 +54,7 @@ DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,youtube
+#DOMAIN-KEYWORD,youtube
 
 # GFW list
 DOMAIN-SUFFIX,gfwlist.start
@@ -1642,7 +1642,7 @@ DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbaddins.com
-DOMAIN-SUFFIX,fbcdn.net
+#DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,fc2.com
@@ -2269,7 +2269,7 @@ DOMAIN-SUFFIX,googleplus.com
 DOMAIN-SUFFIX,googlesile.com
 DOMAIN-SUFFIX,googlesource.com
 DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,googlevideo.com
+#DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,googleweblight.com
 DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,gopetition.com
@@ -2590,7 +2590,7 @@ DOMAIN-SUFFIX,huhamhire.com
 DOMAIN-SUFFIX,huhangfei.com
 DOMAIN-SUFFIX,huiyi.in
 DOMAIN-SUFFIX,hulkshare.com
-DOMAIN-SUFFIX,hulu.com
+#DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,humanparty.me
 DOMAIN-SUFFIX,humanrightspressawards.org
@@ -3790,7 +3790,7 @@ DOMAIN-SUFFIX,onthehunt.com
 DOMAIN-SUFFIX,ontrac.com
 DOMAIN-SUFFIX,oopsforum.com
 DOMAIN-SUFFIX,open.com.hk
-DOMAIN-SUFFIX,openai.com
+#DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openallweb.com
 DOMAIN-SUFFIX,opendemocracy.net
 DOMAIN-SUFFIX,opendn.xyz
@@ -5033,7 +5033,7 @@ DOMAIN-SUFFIX,tibettruth.com
 DOMAIN-SUFFIX,tibetwrites.org
 DOMAIN-SUFFIX,ticket.com.tw
 DOMAIN-SUFFIX,tigervpn.com
-DOMAIN-SUFFIX,tiktok.com
+#DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,timdir.com
 DOMAIN-SUFFIX,time.com
@@ -5353,7 +5353,7 @@ DOMAIN-SUFFIX,urlparser.com
 DOMAIN-SUFFIX,us.to
 DOMAIN-SUFFIX,usacn.com
 DOMAIN-SUFFIX,usaip.eu
-DOMAIN-SUFFIX,uscardforum.com
+#DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,uscnpm.org
 DOMAIN-SUFFIX,usembassy.gov
 DOMAIN-SUFFIX,usfk.mil
@@ -5670,7 +5670,7 @@ DOMAIN-SUFFIX,wisdompubs.org
 DOMAIN-SUFFIX,wisevid.com
 DOMAIN-SUFFIX,wistia.com
 DOMAIN-SUFFIX,withgoogle.com
-DOMAIN-SUFFIX,withyoutube.com
+#DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,witnessleeteaching.com
 DOMAIN-SUFFIX,witopia.net
 DOMAIN-SUFFIX,wizcrafts.net
@@ -5899,18 +5899,18 @@ DOMAIN-SUFFIX,youshun12.com
 DOMAIN-SUFFIX,youthforfreechina.org
 DOMAIN-SUFFIX,youthnetradio.org
 DOMAIN-SUFFIX,youthwant.com.tw
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtubecn.com
-DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtubegaming.com
-DOMAIN-SUFFIX,youtubekids.com
+#DOMAIN-SUFFIX,youtu.be
+#DOMAIN-SUFFIX,youtube-nocookie.com
+#DOMAIN-SUFFIX,youtube.com
+#DOMAIN-SUFFIX,youtubecn.com
+#DOMAIN-SUFFIX,youtubeeducation.com
+#DOMAIN-SUFFIX,youtubegaming.com
+#DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youversion.com
 DOMAIN-SUFFIX,youwin.com
 DOMAIN-SUFFIX,youxu.info
 DOMAIN-SUFFIX,ytht.net
-DOMAIN-SUFFIX,ytimg.com
+#DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ytn.co.kr
 DOMAIN-SUFFIX,yuanming.net
 DOMAIN-SUFFIX,yuanzhengtang.org
@@ -6080,11 +6080,11 @@ DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt2.com
+#DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
+#DOMAIN-SUFFIX,yt.be
+#DOMAIN-SUFFIX,ytimg.com
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 

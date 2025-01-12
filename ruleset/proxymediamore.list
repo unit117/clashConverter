@@ -16,8 +16,8 @@ DOMAIN-SUFFIX,hayabusa.io
 
 # All4
 USER-AGENT,All4*
-DOMAIN-SUFFIX,c4assets.com
-DOMAIN-SUFFIX,channel4.com
+#DOMAIN-SUFFIX,c4assets.com
+#DOMAIN-SUFFIX,channel4.com
 
 # Amazon
 DOMAIN-KEYWORD,avoddashs
@@ -77,7 +77,7 @@ DOMAIN-SUFFIX,dazndn.com
 DOMAIN-SUFFIX,dcblivedazn.akamaized.net
 DOMAIN-SUFFIX,indazn.com
 DOMAIN-SUFFIX,indaznlab.com
-DOMAIN-SUFFIX,sentry.io
+#DOMAIN-SUFFIX,sentry.io
 
 # Deezer
 USER-AGENT,Deezer*
@@ -135,8 +135,8 @@ DOMAIN-SUFFIX,ocnttv.com
 
 # Hulu
 DOMAIN-SUFFIX,cws-hulu.conviva.com
-DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,hulu.hb.omtrdc.net
+#DOMAIN-SUFFIX,hulu.com
+#DOMAIN-SUFFIX,hulu.hb.omtrdc.net
 DOMAIN-SUFFIX,hulu.sc.omtrdc.net
 DOMAIN-SUFFIX,huluad.com
 DOMAIN-SUFFIX,huluim.com
