@@ -1,6 +1,12 @@
-#peacock
+# Peacock
 DOMAIN-SUFFIX,peacocktv.com
 DOMAIN-SUFFIX,nbcstreaming.sc.omtrdc.net
 DOMAIN-SUFFIX,connect.ctn.ovpe.prod.nbcuott.com
 DOMAIN-SUFFIX,47e224be59415ec068b94bca857581bd7dde7fb6.cws.conviva.com
 DOMAIN-SUFFIX,vi.freewheel.tv
+
+DOMAIN-KEYWORD,peacocktv
+DOMAIN-KEYWORD,nbcstreaming
+DOMAIN-KEYWORD,nbcuott
+DOMAIN-KEYWORD,conviva
+DOMAIN-KEYWORD,freewheel
