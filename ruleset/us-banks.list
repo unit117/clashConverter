@@ -1,0 +1,64 @@
+# US Banks and Financial Services
+# Updated: 2026-04-10
+# Custom list - no community-maintained equivalent exists
+
+# Bank of America
+DOMAIN-SUFFIX,bankofamerica.com
+DOMAIN-SUFFIX,bofa.com
+DOMAIN-SUFFIX,mbna.com
+DOMAIN-SUFFIX,merrilledge.com
+DOMAIN-SUFFIX,ml.com
+
+# Chase / JPMorgan
+DOMAIN-SUFFIX,chase.com
+DOMAIN-SUFFIX,jpmorganchase.com
+
+# Citi
+DOMAIN-SUFFIX,citi.com
+DOMAIN-SUFFIX,citibank.com
+DOMAIN-SUFFIX,citicards.com
+
+# Wells Fargo
+DOMAIN-SUFFIX,wellsfargo.com
+
+# Capital One
+DOMAIN-SUFFIX,capitalone.com
+
+# American Express
+DOMAIN-SUFFIX,americanexpress.com
+DOMAIN-SUFFIX,amex.com
+
+# Discover
+DOMAIN-SUFFIX,discover.com
+DOMAIN-SUFFIX,discovercard.com
+
+# Schwab
+DOMAIN-SUFFIX,schwab.com
+
+# Fidelity
+DOMAIN-SUFFIX,fidelity.com
+
+# Vanguard
+DOMAIN-SUFFIX,vanguard.com
+
+# PayPal / Venmo
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,venmo.com
+
+# Wise (international transfers)
+DOMAIN-SUFFIX,wise.com
+
+# Credit bureaus
+DOMAIN-SUFFIX,equifax.com
+DOMAIN-SUFFIX,experian.com
+DOMAIN-SUFFIX,transunion.com
+
+# Credit monitoring
+DOMAIN-SUFFIX,creditkarma.com
+
+# Coinbase
+DOMAIN-SUFFIX,coinbase.com
+
+# Tax
+DOMAIN-SUFFIX,intuit.com
+DOMAIN-SUFFIX,turbotax.com
