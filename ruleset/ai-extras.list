@@ -1,6 +1,9 @@
 # AI services not covered by blackmatrix7
 # Updated: 2026-04-10
 
+# anthropic
+DOMAIN-SUFFIX,anthropic.com
+
 # DeepSeek
 DOMAIN-SUFFIX,deepseek.com
 
