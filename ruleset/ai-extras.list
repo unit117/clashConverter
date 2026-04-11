@@ -3,6 +3,7 @@
 
 # anthropic
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,intellimize.co
 
 # DeepSeek
 DOMAIN-SUFFIX,deepseek.com
